@@ -6,7 +6,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hungconth&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungconth)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Some of my public repositories (not forks):
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/hungconth/hungconth)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator ](https://github.com/hungconth/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/hungconth/To-do-list)**
